@@ -3,7 +3,7 @@
 var questionsAndAnswers = [
     {
         "question": "What is your name",
-        "answer": "My name is Assistant."
+        "answer": "My name is POGO."
     },
     {
         "question": "How are you",
